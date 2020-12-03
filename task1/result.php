@@ -19,7 +19,7 @@ fclose($fp);
 
 }
 
-echo "File with name \"file11.txt\" created in directory with projects files. ";
+echo "File with name \"file11.txt\" created in directory with project files. ";
 
 
 
