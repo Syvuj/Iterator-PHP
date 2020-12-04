@@ -1,0 +1,5 @@
+Create a piece of software that will:
+
+take some folder path as an input data
+based on folder path, the app should get the list of all nested files and folders
+save the "structure" into the file in human-readable format
